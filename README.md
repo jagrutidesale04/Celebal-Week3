@@ -93,16 +93,6 @@ scikit-learn
 openpyxl
 ```
 
----
-
-## 💡 Dataset Source
-
-**Energy Efficiency Data Set**  
-UCI Machine Learning Repository  
-[Link to dataset](https://archive.ics.uci.edu/ml/datasets/Energy+efficiency)
-
----
-
 ## 👩‍💻 Author
 
 **Jagruti Desale**  
