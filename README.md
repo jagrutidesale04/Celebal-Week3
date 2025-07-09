@@ -1,5 +1,5 @@
 
-# 📊 Week 3: Energy Efficiency EDA & Visualization (Python + Jupyter)
+#  Week 3: Energy Efficiency EDA & Visualization (Python + Jupyter)
 
 This project is part of **Week 3** of the **Celebal Summer Internship** program.
 
@@ -8,25 +8,25 @@ I chose the **Energy Efficiency dataset** from the UCI Machine Learning Reposito
 
 ---
 
-## 📌 Features
+##  Features
 
-- 📥 Excel file loaded directly with `pandas.read_excel()`
-- 📊 Full EDA including:
+-  Excel file loaded directly with `pandas.read_excel()`
+-  Full EDA including:
   - Shape, datatypes, summary stats
   - Null checks and data distributions
-- 🔍 Feature Engineering:
+-  Feature Engineering:
   - `Total_Load` (Heating + Cooling)
   - Aspect Ratio & Glazing classification
-- 🌈 Vibrant visualizations:
+-  Vibrant visualizations:
   - Histograms, boxplots, pie charts, heatmaps
   - Line plots, scatter plots, KDE plots
   - Pairplots for feature relationships
-- 🧠 Insights explained after each major section
-- 💾 Final cleaned dataset exported as CSV
+-  Insights explained after each major section
+-  Final cleaned dataset exported as CSV
 
 ---
 
-## 📂 File Structure
+##  File Structure
 
 ```
 Celebal-Week3/
@@ -39,16 +39,16 @@ Celebal-Week3/
 
 ---
 
-## 🚀 How to Run the Notebook
+##  How to Run the Notebook
 
-### 1. 📥 Clone the Repository
+### 1.  Clone the Repository
 
 ```bash
 git clone https://github.com/jagrutidesale04/Celebal-Week3.git
 cd Celebal-Week3
 ```
 
-### 2. 🐍 (Optional) Create Virtual Environment
+### 2.  (Optional) Create Virtual Environment
 
 ```bash
 python -m venv venv
@@ -57,13 +57,13 @@ venv\Scripts\activate       # Windows
 source venv/bin/activate    # macOS/Linux
 ```
 
-### 3. 📦 Install Dependencies
+### 3.  Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. 📓 Open the Notebook
+### 4.  Open the Notebook
 
 ```bash
 jupyter notebook eda_energy_efficiency.ipynb
@@ -71,7 +71,7 @@ jupyter notebook eda_energy_efficiency.ipynb
 
 ---
 
-## 📊 Sample Visualizations
+## Sample Visualizations
 
 - Correlation heatmap
 - Pairplot of selected features
@@ -82,7 +82,7 @@ jupyter notebook eda_energy_efficiency.ipynb
 
 ---
 
-## 📎 Requirements
+## Requirements
 
 ```txt
 pandas
@@ -93,17 +93,17 @@ scikit-learn
 openpyxl
 ```
 
-## 👩‍💻 Author
+##  Author
 
 **Jagruti Desale**  
 B.Tech – Data Science and Engineering (3rd Year)  
 Summer Intern @ Celebal Technologies  
 
-🔗 [GitHub](https://github.com/jagrutidesale04)  
-💼 [LinkedIn](https://www.linkedin.com/in/jagruti-desale-jd04)
+ [GitHub](https://github.com/jagrutidesale04)  
+ [LinkedIn](https://www.linkedin.com/in/jagruti-desale-jd04)
 
 ---
 
-## 📜 License
+## License
 
 This project is intended for educational use as part of Celebal’s summer internship program. You are welcome to fork and experiment for learning purposes!
